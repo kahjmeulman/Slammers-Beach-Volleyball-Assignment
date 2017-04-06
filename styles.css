@@ -7,6 +7,27 @@ body {
 title {
 	color: #FF0003;
 }
+body h2 {
+	text-decoration: underline;
+}
+body h3 {
+	text-align: center;
+	text-decoration: underline;
+}
+body img {
+	width: 223px;
+	height: 192px;
+	min-height: 0px;
+	float: right;
+	clear: left;
+	display: inline;
+	left: -555px;
+	position: relative;
+	top: -69px;
+}
+
+
+
 .title {
 	color: #00FFD3;
 	text-align: center;
