@@ -1,3 +1,55 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	background-color: #B1E99A;
+}
+title {
+	color: #FF0003;
+}
+.title {
+	color: #00FFD3;
+	text-align: center;
+	background-color: #6B8D97;
+	background-size: 2px 0%;
+	border-spacing: 0px 6px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: italic;
+	border-style: solid;
+}
+.topmenu {
+	background-color: #B1E99A;
+	color: #000000;
+	font-size: x-large;
+	text-align: center;
+	border-top-left-radius: 0vmax;
+	word-spacing: 61%;
+	border-top-right-radius: 0vmax;
+	text-shadow: 0px 0px #6B8D97;
+}
+.topmenu a {
+	color: #000000;
+	text-decoration: none;
+	background-color: #E57D7C;
+	border-width: 120%;
+	border-style: solid;
+	-webkit-box-shadow: inset 100px e +008px 100px #000DFF;
+	box-shadow: inset 100px e +008px 100px #000DFF;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	display: inline;
+	text-align: center;
+	list-style-position: outside;
+	overflow-x: hidden; }
+
+a:hover { 
+    background-color: yellow;
+}
+
+.bb {
+	border-width: medium;
+	border-style: solid;
+	color: #000000;
+	list-style-position: inside;
+}
