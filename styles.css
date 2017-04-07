@@ -3,6 +3,7 @@
 
 body {
 	background-color: #B1E99A;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 title {
 	color: #FF0003;
@@ -15,15 +16,15 @@ body h3 {
 	text-decoration: underline;
 }
 body img {
-	width: 223px;
-	height: 192px;
+	width: 189px;
+	height: 208px;
 	min-height: 0px;
 	float: right;
 	clear: left;
 	display: inline;
-	left: -555px;
+	left: -406px;
 	position: relative;
-	top: -69px;
+	top: -80px;
 }
 
 
@@ -73,4 +74,13 @@ a:hover {
 	border-style: solid;
 	color: #000000;
 	list-style-position: inside;
+}
+body img2 {
+	position: relative;
+	right: 110pt;
+	float: right;
+	text-align: center;
+}
+footer {
+	text-align: center;
 }
